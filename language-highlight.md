@@ -50,6 +50,7 @@ function getAdder(int $x): int
 {
     return 123;
 }
+```
 
 ```rpy
 # Declare characters used by this game.
