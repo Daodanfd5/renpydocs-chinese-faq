@@ -23,6 +23,7 @@
   - [Offline Mode (PWA)](pwa.md)
   - [Server-Side Rendering (SSR)](ssr.md)
   - [Embed Files](embed-files.md)
+  - [Sakura2022/3/faq](sakurafaq.md)
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
