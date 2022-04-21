@@ -51,7 +51,7 @@ function getAdder(int $x): int
     return 123;
 }
 
-```
+```renpy
 # Declare characters used by this game.
 define s = Character(_("Sylvie"), color="#c8ffc8")
 define m = Character(_("Me"), color="#c8c8ff")
