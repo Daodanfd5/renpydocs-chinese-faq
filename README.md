@@ -1,38 +1,17 @@
-## docsify
+## Ren'Py简体中文非官方教程
 
-> A magical documentation site generator.
+这是一个教程，而不是一个文档。我们无意将内容重新复制一遍到这个位置，所以我们并没有把官方的“字典式文档”重新放入docsify。（主要是懒）
 
-## What it is
+以下是可能对你有用的链接。
 
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
++ [Ren'Py中文文档](https://www.renpy.cn/doc/)
++ [Ren'Py项目主页](https://renpy.org)
++ [此项目的仓库地址](https://github.com/Daodanfd5/renpydocs-chinese-faq)
 
-See the [Quick start](quickstart.md) guide for more details.
+## 简介
+此文档的所有内容均由我们的社区人员进行维护，如果您希望对此文档进行维护，您可以fork一份并提交pr。
 
-## Features
+## 版权声明
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
-
-## Examples
-
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
-
-## Special Thanks
-
-_Vercel_ has given us a Pro account.
-
-<a href="https://vercel.com/?utm_source=docsifyjsdocs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" width="100px"></a>
+使用，再分发或集成到你的项目前时请遵守[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)协议。
+© 2022 Dreamdawn,.All rights reserved.
