@@ -1,10 +1,12 @@
-# Cover
+# 封面
 
-Activate the cover feature by setting `coverpage` to **true**. See [coverpage configuration](configuration.md#coverpage).
+通过设置 `coverpage` 参数，可以开启渲染封面的功能。具体用法见[配置项#coverpage](configuration.md#coverpage)。
 
-## Basic usage
+## 基本用法
 
-Set `coverpage` to **true**, and create a `_coverpage.md`:
+封面的生成同样是从 markdown 文件渲染来的。开启渲染封面功能后在文档根目录创建 `_coverpage.md` 文件。渲染效果如本文档。
+
+_index.html_
 
 ```html
 <!-- index.html -->
@@ -24,19 +26,21 @@ Set `coverpage` to **true**, and create a `_coverpage.md`:
 
 # docsify <small>3.5</small>
 
-> A magical documentation site generator.
+> 一个神奇的文档网站生成器。
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 简单、轻便 (压缩后 ~21kB)
+- 无需生成 html 文件
+- 众多主题
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify)
 ```
 
-## Custom background
+## 自定义背景
 
-The background color is generated randomly by default. You can customize the background color or a background image:
+目前的背景是随机生成的渐变色，我们自定义背景色或者背景图。在文档末尾用添加图片的 Markdown 语法设置背景。
+
+`_coverpage.md`
 
 ```markdown
 <!-- _coverpage.md -->
@@ -46,24 +50,24 @@ The background color is generated randomly by default. You can customize the bac
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#quick-start)
 
-<!-- background image -->
+<!-- 背景图片 -->
 
 ![](_media/bg.png)
 
-<!-- background color -->
+<!-- 背景色 -->
 
 ![color](#f0f0f0)
 ```
 
-## Coverpage as homepage
+## 封面作为首页
 
-Normally, the coverpage and the homepage appear at the same time. Of course, you can also separate the coverpage by [onlyCover option](configuration.md#onlycover).
+通常封面和首页是同时出现的，当然你也是当封面独立出来通过设置[onlyCover 选项](zh-cn/configuration.md#onlycover)。
 
-## Multiple covers
+## 多个封面
 
-If your docs site is in more than one language, it may be useful to set multiple covers.
+如果你的文档网站是多语言的，或许你需要设置多个封面。
 
-For example, your docs structure is like this
+例如你的文档目录结构如下
 
 ```text
 .
@@ -77,7 +81,7 @@ For example, your docs structure is like this
         └── _coverpage.md
 ```
 
-Now, you can set
+那么你可以这么配置
 
 ```js
 window.$docsify = {
@@ -85,7 +89,7 @@ window.$docsify = {
 };
 ```
 
-Or a special file name
+或者指定具体的文件名
 
 ```js
 window.$docsify = {
