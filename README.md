@@ -11,7 +11,12 @@
 ## 简介
 此文档的所有内容均由我们的社区人员进行维护，如果您希望对此文档进行维护，您可以fork一份并提交pr。
 
+也许我们会将一部分有用的官方字典放进来。
+
 ## 版权声明
 
 使用，再分发或集成到你的项目前时请遵守[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)协议。
-© 2022 Dreamdawn,.All rights reserved.
+
+部分内容版权不属于我们，请注意查看页面下方的版权声明。
+
+© 2022 Dreamdawn.
