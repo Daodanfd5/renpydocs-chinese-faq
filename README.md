@@ -9,6 +9,7 @@
 + [Ren'Py中文文档](https://www.renpy.cn/doc/)
 + [Ren'Py项目主页](https://renpy.org)
 + [此项目的仓库地址](https://github.com/Daodanfd5/renpydocs-chinese-faq)
++ [Ren'Py教程合集](https://github.com/red-moon-tea-party/renpy)
 
 ## 简介
 此文档的所有内容均由我们的社区人员进行维护，如果您希望对此文档进行维护，您可以fork一份并提交pr。
