@@ -1,4 +1,4 @@
-![logo](_images/index-logo.webp)
+![logo](_images/index-logo.png)
 # Ren'Py中文教程
 
 [GitHub](https://github.com/Daodanfd5/renpydocs-chinese-faq)
