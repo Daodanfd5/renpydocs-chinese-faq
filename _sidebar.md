@@ -8,4 +8,4 @@
 
 - 让我们开始吧！
 
-  - [为你的应用生成自定义图标](Add icon to your project.md)
+  - [为你的应用生成自定义图标](Add-icon-to-your-project.md)
