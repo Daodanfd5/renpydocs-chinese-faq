@@ -34,7 +34,7 @@ When generating the application, Ren'Py will convert these files to an appropria
 这个图标被用于Windows
 #### icon.icns
 这个图标被用于Macintosh。  
-这些图标均需要采用特定的格式。你需要使用某些程序或互联网服务（如 https://anyconv.com/png-to-ico-converter/ 或 https://anyconv.com/png-to-icns-converter/）来转换它们。
+这些图标均需要采用特定的格式。你需要使用某些程序或互联网服务（如 https://anyconv.com/png-to-ico-converter/ 或 https://anyconv.com/png-to-icns-converter/） 来转换它们。
 
 译者注：你还可以使用'ffmpeg -i input.png output.ico'来进行转换。
 
