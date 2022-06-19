@@ -7,5 +7,5 @@
 - [此项目的许可证](LICENSE.md)
 
 - 让我们开始吧！
-
+  - [选择一个Ren'Py发行版](Latest_Ren'Py.md)
   - [为你的应用生成自定义图标](Add-icon-to-your-project.md)
