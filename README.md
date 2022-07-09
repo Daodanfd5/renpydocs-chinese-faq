@@ -2,7 +2,7 @@
 
 这是一个教程，而不是一个文档。我们无意将内容重新复制一遍到这个位置，所以我们并没有把官方的“字典式文档”重新放入docsify。（主要是懒）
 
-另外，仓库内容不一定与rpydoc.dreamdawn.net同步，但与gh-rpydoc.dreamdawn.net同步
+rpydoc.dreamdawn.net与gh-rpydoc.dreamdawn.net是一样的，区别在于前面的是Cloudflare构建，后面的是github pages构建。
 
 以下是可能对你有用的链接。
 
